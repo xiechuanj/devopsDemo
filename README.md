@@ -13,13 +13,13 @@ the system. Remember to include subnets, load balancers etc.
 ![](./image/mesos.png)
 ![](./image/kubernetes.png)
 
-
+```
 [root@k8smaster ~]# etcdctl cluster-health
 member ddb93d69258bd0d is healthy: got healthy result from http://10.10.10.11:2379
 member ed96692693bd37ad is healthy: got healthy result from http://10.10.10.12:2379
 member f88d42e454d897b3 is healthy: got healthy result from http://10.10.10.10:2379
 cluster is healthy
-
+```
 
 ## Database
 ### 1) The master database died unexpected due to hardware failure. Explain the process of a database failover.
