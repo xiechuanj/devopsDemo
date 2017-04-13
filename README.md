@@ -70,3 +70,14 @@ Try 'chmod --help' for more information.
 
 + [Code](https://github.com/xiechuanj/devopsDemo.git)
 ![](./image/testTriangle.png)
+
+
+## Use jenkins + gogs + maven CI/CD:
+![](./image/jenkinsbuildmaven.png)
+
+## Use kubernetes as Paas
+![](./image/kubernetespods.png)
+
+## Kubernetes monitoring:
+![](./image/monitor1.png)
+![](./image/monitor2.png)
