@@ -65,3 +65,8 @@ Try 'chmod --help' for more information.
 ### Write a function that determines the type of a triangle. It should take the lengths of the triangle's three sides as input, and return whether the triangle is equilateral, isosceles or scalene. Also consider tests, documentation and/or errors. Remember to include documentation for how to run the program.
 
 ### Please upload the code to github or send it in an email along with the answers to the questions above.
+
+## Answer:
+
++ [Code](https://github.com/xiechuanj/devopsDemo.git)
+![](./image/testTriangle.png)

@@ -14,12 +14,12 @@ class Triangle:
             m = max(a,b,c)
             if (a + b + c > 2 * m):
                 if a == b and b == c:
-                    print "equilateral triangle.\n"    
+                    print "equilateral triangle.a = %s, b = %s, c = %s\n"%(a,b,c)      
                 elif a == b or b == c or a == c:
-                    print "isosceles triangle.\n"               
+                    print "isosceles triangle.a = %s, b = %s, c = %s\n"%(a,b,c)                
                 else:
-                    print "scalene triangle.\n"    
+                    print "scalene triangle.a = %s, b = %s, c = %s\n"%(a,b,c)     
             else:
-                print "Not a triangle.\n"        
+                print "Not a triangle.a = %s, b = %s, c = %s\n"%(a,b,c)         
         else:
             print "please check input data. a = %s, b = %s, c = %s\n"%(a,b,c)
